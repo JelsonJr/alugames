@@ -9,3 +9,5 @@ Projeto desenvolvido durante a formação *Linguagem Kotlin* da [Alura](https://
 - Orientação a objetos em Kotlin.
 - Extensions e suas utilidades
 - Uso de APIS como JPA em Kotlin.
+
+<img src="https://skillicons.dev/icons?i=kotlin,maven,postgresql" />
